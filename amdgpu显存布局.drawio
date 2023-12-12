@@ -1,9 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T04:11:53.226Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" version="22.1.7" etag="1gdSLpyggv1FI6WWVJe8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T04:14:41.389Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="nUTFkep-No7NOCrpK4Oe" version="22.1.7" type="github">
   <diagram name="第 1 页" id="_CK6q6RtLin7N6FVopZ9">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jfHA67hwsG4-gSG7snSq-1" value="visible vram" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfHA67hwsG4-gSG7snSq-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jfHA67hwsG4-gSG7snSq-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfHA67hwsG4-gSG7snSq-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jfHA67hwsG4-gSG7snSq-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfHA67hwsG4-gSG7snSq-2" value="invisible vram" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="200" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="jfHA67hwsG4-gSG7snSq-4" value="visible_vram_size" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="620" y="200" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jfHA67hwsG4-gSG7snSq-6" value="real_vram_size" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="625" y="415" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
